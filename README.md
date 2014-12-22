@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A glasse of the trutheHenry VIII, King of England, 1491-1547.1532Approx. 96 KB of XML-encoded text t
+
+1. TO THE REDERS. ❧To the gentill reders and syncere louers of truthe.
+
 #####Body#####
-A glasse of the trutheHenry VIII, King of England, 1491-1547.1532Approx. 96 KB of XML-encoded text t
+
+1. A DIALOGE.
+
 #####Back#####
-A glasse of the trutheHenry VIII, King of England, 1491-1547.1532Approx. 96 KB of XML-encoded text t
+¶〈…〉 CVM PRIVILEGIO.
 **Types of content**
 
   * There are 96 **drama** parts! This is **prose drama**.
